@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Charly\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\4c3ff716f62f9ecff8bcf4ea0039b35d\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
-        "merged": "C:\\Users\\Charly\\curso\\push\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
-        "source": "C:\\Users\\Charly\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\4c3ff716f62f9ecff8bcf4ea0039b35d\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
-    },
-    {
         "merged": "C:\\Users\\Charly\\curso\\push\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
         "source": "C:\\Users\\Charly\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\4c3ff716f62f9ecff8bcf4ea0039b35d\\res\\drawable-xhdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Charly\\curso\\push\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_googleg_disabled_color_18.png.flat",
+        "source": "C:\\Users\\Charly\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\4c3ff716f62f9ecff8bcf4ea0039b35d\\res\\drawable-hdpi-v4\\googleg_disabled_color_18.png"
     },
     {
         "merged": "C:\\Users\\Charly\\curso\\push\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
@@ -68,12 +68,12 @@
         "source": "C:\\Users\\Charly\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\4c3ff716f62f9ecff8bcf4ea0039b35d\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Charly\\curso\\push\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\Charly\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\81745d8506ac1a97d84b3f487ab8853c\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
-    },
-    {
         "merged": "C:\\Users\\Charly\\curso\\push\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
         "source": "C:\\Users\\Charly\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-26.1.0.aar\\7b310a8032f9b8b2d193f1b318ac60ff\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Charly\\curso\\push\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Charly\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\81745d8506ac1a97d84b3f487ab8853c\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "C:\\Users\\Charly\\curso\\push\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable_common_google_signin_btn_icon_light_normal.xml.flat",
@@ -152,12 +152,12 @@
         "source": "C:\\Users\\Charly\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-15.0.1.aar\\4c3ff716f62f9ecff8bcf4ea0039b35d\\res\\drawable-xxhdpi-v4\\googleg_disabled_color_18.png"
     },
     {
-        "merged": "C:\\Users\\Charly\\curso\\push\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_next_item.png.flat",
-        "source": "C:\\Users\\Charly\\curso\\push\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_next_item.png"
-    },
-    {
         "merged": "C:\\Users\\Charly\\curso\\push\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
         "source": "C:\\Users\\Charly\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\81745d8506ac1a97d84b3f487ab8853c\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Charly\\curso\\push\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_next_item.png.flat",
+        "source": "C:\\Users\\Charly\\curso\\push\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_next_item.png"
     },
     {
         "merged": "C:\\Users\\Charly\\curso\\push\\platforms\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-land-xhdpi_screen.png.flat",
